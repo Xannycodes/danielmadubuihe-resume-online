@@ -363,7 +363,7 @@ margin-right: 8px;
     .indexparentcontainer{
         width:100%;
          background-size:cover;
-        grid-template-columns: 100%;
+        grid-template-columns: 90%;
         overflow: break-word;
         gap:10px;
         
