@@ -10,7 +10,7 @@ body{
     background-image: linear-gradient(to right,rgb(211,248,143) 40%,whitesmoke 60%);
     background-repeat: no-repeat; 
     color:rgb(95,95,95,1.0);
-    font-size:20px;
+
 }
 
 h1{
@@ -364,7 +364,7 @@ margin-right: 8px;
     .indexparentcontainer{
         width:100%;
          background-size:cover;
-        grid-template-columns: 90%;
+        grid-template-columns: 100%;
         overflow: break-word;
         gap:10px;
         
