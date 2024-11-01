@@ -359,17 +359,16 @@ margin-right: 8px;
 
 
 
-@media screen and (max-width:600px){
+@media screen and (max-width:768px){
     .indexparentcontainer{
-         background-size:100%;
+         background-size:cover;
         grid-template-columns: 100%;
         overflow: break-word;
         gap:10px;
-        overflow:auto;
+        
     }
-    body{
-        font-size: clamp(16px,2vw,24px);
 
+    
     .indexnav{
         width: 90%;
         grid-column:1/5;
