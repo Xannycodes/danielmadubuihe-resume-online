@@ -363,7 +363,8 @@ margin-right: 8px;
     .indexparentcontainer{
         grid-template-columns: 100%;
         overflow: break-word;
-        gap:10px
+        gap:10px;
+        overflow:auto;
     }
 
     .indexnav{
