@@ -367,6 +367,8 @@ margin-right: 8px;
         gap:10px;
         overflow:auto;
     }
+    body{
+        font-size: clamp(16px,2vw,24px);
 
     .indexnav{
         width: 90%;
