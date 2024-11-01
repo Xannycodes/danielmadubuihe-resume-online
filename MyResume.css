@@ -9,7 +9,7 @@ body{
     background-color: var(--whitesmoke);
     background-image: linear-gradient(to right,rgb(211,248,143) 40%,whitesmoke 60%);
     background-repeat: no-repeat; 
-    color:rgb(95,95,95,1.0)   
+    color:rgb(95,95,95,1.0);
     font-size:20px;
 }
 
