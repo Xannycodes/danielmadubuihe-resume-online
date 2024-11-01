@@ -359,8 +359,9 @@ margin-right: 8px;
 
 
 
-@media screen and (max-width:768px){
+@media screen and (max-width:600px){
     .indexparentcontainer{
+        margin
         grid-template-columns: 100%;
         overflow: break-word;
         gap:10px;
